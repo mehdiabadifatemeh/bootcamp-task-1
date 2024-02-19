@@ -1,0 +1,26 @@
+@font-face {
+  font-family: Vazirmatn;
+  font-weight: 700;
+  font-style: normal;
+  src: url("/assets/fonts/Vazirmatn-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  font-weight: 400;
+  font-style: normal;
+  src: url("/assets/fonts/Vazirmatn-Light.woff2") format("woff2");
+}
+
+@font-face {
+font-family: Vazirmatn ;
+font-style: normal;
+src: url("/assets/fonts/Vazirmatn-UI-FD-NL-Black.woff2");
+}
+
+header,
+body,
+footer {
+  font-family: Vazirmatn;
+  font-family: Vazirmatn FD NL
+}
