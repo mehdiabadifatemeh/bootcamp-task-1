@@ -13,14 +13,14 @@
 }
 
 @font-face {
-font-family: Vazirmatn ;
-font-style: normal;
-src: url("/assets/fonts/Vazirmatn-UI-FD-NL-Black.woff2");
+  font-family: Vazirmatn;
+  font-style: normal;
+  src: url("/assets/fonts/Vazirmatn-UI-FD-NL-Black.woff2");
 }
 
 header,
 body,
 footer {
   font-family: Vazirmatn;
-  font-family: Vazirmatn FD NL
+  font-family: Vazirmatn FD NL;
 }
